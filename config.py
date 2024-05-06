@@ -27,9 +27,9 @@ model_config = {
 }
 
 """ train """
-save_path = "/content/drive/MyDrive/Colab_Notebooks/Speech/Model_2"
-num_epochs = 50
+save_path = "/model"
+num_epochs = 19
 learning_rate = 0.001
 
 #
-model_path = '/content/drive/MyDrive/Colab_Notebooks/Speech/Model_2/model_epoch_16.pth'
+model_path = '/model/model_epoch_16.pth'
